@@ -1,6 +1,5 @@
 <h2>一般網頁相關</h2>
-實驗室網站 實驗版 採用php <br>
-https://github.com/eblis3451/web_train_php_bclab_ver1  <br>
+
 
 node+koa2訓練<br>
 https://github.com/eblis3451/web_train_node_koa2
